@@ -1,0 +1,66 @@
+Finished 1th generation
+Finished 2th generation
+Finished 3th generation
+Finished 4th generation
+Finished 5th generation
+Finished 6th generation
+Finished 7th generation
+Finished 8th generation
+Finished 9th generation
+Finished 10th generation
+Finished 10th generation
+[-4.0331026336708, 4.307596130721105, -7.265670144395742, -8.645870456677663, -6.704827534817515, -0.7853277707101736, -0.7346300446881102, -9.126024369416612]
+You have completed 113911 rows.
+You have completed 98822 rows.
+You have completed 58940 rows.
+You have completed 65152 rows.
+You have completed 104563 rows.
+You have completed 108353 rows.
+You have completed 86815 rows.
+You have completed 66215 rows.
+You have completed 64329 rows.
+You have completed 149708 rows.
+Finished 11th generation
+Finished 12th generation
+Finished 13th generation
+Finished 14th generation
+Finished 15th generation
+Finished 16th generation
+Finished 17th generation
+Finished 18th generation
+Finished 19th generation
+Finished 20th generation
+Finished 20th generation
+[-4.0331026336708, 4.307596130721105, -7.265670144395742, -8.645870456677663, -6.704827534817515, -0.7853277707101736, -1.8516963250277243, -9.126024369416612]
+You have completed 179466 rows.
+You have completed 105585 rows.
+You have completed 123118 rows.
+You have completed 189200 rows.
+You have completed 253661 rows.
+You have completed 61979 rows.
+You have completed 162074 rows.
+You have completed 80587 rows.
+You have completed 121951 rows.
+You have completed 118465 rows.
+Finished 21th generation
+Finished 22th generation
+Finished 23th generation
+Finished 24th generation
+Finished 25th generation
+Finished 26th generation
+Finished 27th generation
+Finished 28th generation
+Finished 29th generation
+Finished 30th generation
+Finished 30th generation
+[-4.0331026336708, 4.307596130721105, -7.265670144395742, -8.645870456677663, -7.303770936150002, -0.7853277707101736, -1.8516963250277243, -9.126024369416612]
+You have completed 125416 rows.
+You have completed 102194 rows.
+You have completed 208272 rows.
+You have completed 153631 rows.
+You have completed 79641 rows.
+You have completed 123535 rows.
+You have completed 67186 rows.
+You have completed 206081 rows.
+You have completed 124396 rows.
+You have completed 149817 rows.
